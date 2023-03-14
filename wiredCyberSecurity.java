@@ -1,3 +1,10 @@
+/* ********************************************************
+ * Author: Danny Brokke (dannybrokke@live.com)
+ * Desc: Java program that utilizies the JSoup library to 
+ * scrape the Wired cybersecurity news page.
+   ********************************************************
+*/
+
 // Importing JSoup libraries as well as IOException
 package WebScraper.wiredCybersecurity;
 import org.jsoup.Jsoup;
